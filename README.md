@@ -4,6 +4,6 @@ This kata is a simple adaptation of code found out in the field that needed to b
 
 The objective is to get this code under test and then refactor the legacy code to a more orderly and readable state, thus making it suitable for modification.
 
-There is a folder for each language and a build tool that will run a properly failing test approriate for the syntax in that folder.
+There is a folder for each language and a build tool that will run a properly failing test appropriate for the syntax in that folder.
 
 In all languages you should be able to achieve isolated unit tests without the use of a framework for mocking.

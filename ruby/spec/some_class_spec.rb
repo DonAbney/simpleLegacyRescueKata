@@ -5,7 +5,6 @@ describe SomeClass do
 
     context 'does stuff' do
       it 'returns stuff' do
-
         expect(SomeClass.someMethod).to eql(1)
       end
     end
